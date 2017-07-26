@@ -1,0 +1,71 @@
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\Aquiver.exe.config
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\Aquiver.exe
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\Aquiver.pdb
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\MaterialSkin.dll
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\MetroFramework.Design.dll
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\MetroFramework.dll
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\MetroFramework.Fonts.dll
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\bin\Release\MySql.Data.dll
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.csprojResolveAssemblyReference.cache
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Forms.Form_Storage.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Classes.Form_WorkerMain.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Forms.Form_AddEditTask.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Forms.Form_AddEditWorker.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Form_Authentication.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Forms.Form_LearnMoreTask.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Forms.Form_LearnMoreWorker.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Forms.Form_Registration.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Forms.Form_UserMain.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.Properties.Resources.resources
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.csproj.GenerateResource.Cache
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.exe.licenses
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.exe
+d:\mrk\!Диплом\Программа\Aquiver\Aquiver\obj\Release\Aquiver.pdb
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\Aquiver.exe.config
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.exe
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.pdb
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\Aquiver.exe
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\Aquiver.pdb
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\MaterialSkin.dll
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\MetroFramework.Design.dll
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\MetroFramework.dll
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\MetroFramework.Fonts.dll
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Release\MySql.Data.dll
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.csprojResolveAssemblyReference.cache
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_Storage.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Classes.Form_WorkerMain.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_AddEditTask.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_AddEditWorker.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Form_Authentication.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_LearnMoreTask.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_LearnMoreWorker.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_Registration.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_UserMain.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Properties.Resources.resources
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.csproj.GenerateResource.Cache
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.exe.licenses
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_ServerSettings.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\Aquiver.exe.config
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\Aquiver.exe
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\Aquiver.pdb
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\MaterialSkin.dll
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\MetroFramework.Design.dll
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\MetroFramework.dll
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\MetroFramework.Fonts.dll
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\bin\Release\MySql.Data.dll
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.csprojResolveAssemblyReference.cache
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_ServerSettings.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_Storage.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Classes.Form_WorkerMain.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_AddEditTask.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_AddEditWorker.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Form_Authentication.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_LearnMoreTask.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_LearnMoreWorker.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_Registration.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Forms.Form_UserMain.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.Properties.Resources.resources
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.csproj.GenerateResource.Cache
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.exe.licenses
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.exe
+d:\mrk\!Диплом\!Рабочая комиссия\Aquiver v1.0 stable\Aquiver\obj\Release\Aquiver.pdb

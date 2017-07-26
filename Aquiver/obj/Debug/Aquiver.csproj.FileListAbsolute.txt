@@ -1,0 +1,50 @@
+D:\mrk\!Диплом\Программа\aquiver\OptimizeIt\bin\Debug\Aquiver.exe.config
+D:\mrk\!Диплом\Программа\aquiver\OptimizeIt\obj\Debug\Aquiver.exe
+D:\mrk\!Диплом\Программа\aquiver\OptimizeIt\obj\Debug\Aquiver.pdb
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\Aquiver.exe.config
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.exe
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.pdb
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\Aquiver.exe
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\Aquiver.pdb
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\MaterialSkin.dll
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\MetroFramework.Design.dll
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\MetroFramework.dll
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\MetroFramework.Fonts.dll
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\bin\Debug\MySql.Data.dll
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.csprojResolveAssemblyReference.cache
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Forms.Form_Storage.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Classes.Form_WorkerMain.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Forms.Form_AddEditTask.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Forms.Form_AddEditWorker.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Form_Authentication.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Forms.Form_LearnMoreTask.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Forms.Form_LearnMoreWorker.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Forms.Form_Registration.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Forms.Form_UserMain.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.Properties.Resources.resources
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.csproj.GenerateResource.Cache
+D:\mrk\!Диплом\Программа\aquiver\Aquiver\obj\Debug\Aquiver.exe.licenses
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\Aquiver.exe.config
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.exe
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.pdb
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\Aquiver.exe
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\Aquiver.pdb
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\MaterialSkin.dll
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\MetroFramework.Design.dll
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\MetroFramework.dll
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\MetroFramework.Fonts.dll
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\bin\Debug\MySql.Data.dll
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.csprojResolveAssemblyReference.cache
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_Storage.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Classes.Form_WorkerMain.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_AddEditTask.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_AddEditWorker.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Form_Authentication.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_LearnMoreTask.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_LearnMoreWorker.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_Registration.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_UserMain.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Properties.Resources.resources
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.csproj.GenerateResource.Cache
+D:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.exe.licenses
+d:\mrk\!Диплом\Программа\Aquiver v1.0 stable\Aquiver\obj\Debug\Aquiver.Forms.Form_ServerSettings.resources
